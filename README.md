@@ -55,4 +55,4 @@ These writeups document work performed exclusively against a simulated, sandboxe
 
 ---
 
-*Maaz — [krnlbash](https://github.com/) · CTF team 0x141*
+*krnlbash*
