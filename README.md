@@ -1,5 +1,8 @@
 # TechBiz Security Academy — Lab Writeups
 
+This work © 2026 Muhammad Abdullah Maaz is licensed under CC BY 4.0.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
 Writeups for the [TechBiz Security Academy](https://academy.techbiz-sec.com/) practice range — a simulated, self-contained lab environment covering web application security, offensive tooling, blue-team/SOC work, cloud security, and digital forensics.
 
 > All labs were completed in a fully simulated environment. No real systems were contacted, scanned, or exploited at any point.
